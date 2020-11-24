@@ -1,7 +1,3 @@
-###############################################################################
-#                            RUN MAIN                                         #
-###############################################################################
-
 from instance.config.app_settings import *
 from instance.config.file_system import *
 from app.server import server
